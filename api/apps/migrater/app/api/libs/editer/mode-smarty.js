@@ -1,0 +1,1 @@
+mode-smarty.js

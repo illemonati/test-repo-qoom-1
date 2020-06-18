@@ -1,0 +1,1 @@
+mode-php_laravel_blade.js

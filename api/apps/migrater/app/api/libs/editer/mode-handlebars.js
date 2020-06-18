@@ -1,0 +1,1 @@
+mode-handlebars.js
