@@ -1,0 +1,1 @@
+mode-haskell_cabal.js
